@@ -16,5 +16,9 @@
     "repository": "TeamWin/external_magisk-prebuilt",
     "target_path": "external/magisk-prebuilt",
     "branch": "master"
+ },
+ {
+    "repository": "vendor_MiuiCamera",
+    "target_path": "vendor/MiuiCamera"
  }
 ]
